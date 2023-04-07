@@ -183,8 +183,8 @@ public class Main {
 
 
         // TODO kullanıcı email ve şifresini düzenleyiniz
-        String senderEmail = "kerem.61_00@hotmail.com";
-        String senderPassword = "61Kerem61";
+        String senderEmail = "";
+        String senderPassword = "";
 
 
         // Email giriş özelliklerini belirleme
